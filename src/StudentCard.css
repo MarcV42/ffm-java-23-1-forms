@@ -1,0 +1,21 @@
+.student-card {
+    display: flex;
+    justify-content: center;
+    border: solid 5px #888;
+    padding: 12px;
+    margin: 12px;
+    border-radius: 5px;
+    width: 150px;
+}
+
+.student-title {
+    margin: 0;
+    font-size: 24px;
+}
+
+.student-subtitle {
+    margin: 0;
+    padding-bottom: 4px;
+    font-size: 12px;
+    align-self: end;
+}
